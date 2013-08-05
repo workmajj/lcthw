@@ -1,7 +1,4 @@
 #include <stdio.h>
-#include <assert.h> // assert
-#include <stdlib.h> // malloc
-#include <string.h> // strdup
 
 struct Person {
     char *name;
